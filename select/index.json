@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "マンネリウィークエンド",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-02-24T09:19:11.374409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マンネリウィークエンド",
+      "artist": "FAKE TYPE. feat. 花譜",
+      "has_synced": true,
+      "path": "select/01_マンネリウィークエンド_FAKE_TYPE._feat._花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マンネリウィークエンド",
+      "artist": "FAKE TYPE./花譜",
+      "has_synced": true,
+      "path": "select/02_マンネリウィークエンド_FAKE_TYPE._花譜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マンネリウィークエンド",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/03_マンネリウィークエンド_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マンネリウィークエンド - Mannerism Weekend (feat. KAF)",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/04_マンネリウィークエンド_-_Mannerism_Weekend_(feat._KAF)_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マンネリ・ウィークエンド feat.花譜",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_マンネリ・ウィークエンド_feat.花譜_FAKE_TYPE..txt"
+    }
+  ]
+}
